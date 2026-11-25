@@ -1,0 +1,22 @@
+{
+  "name": "shorts-repurpose-factory",
+  "version": "1.0.0",
+  "description": "Turn one long video or transcript into a hook-ranked Shorts plan — which clips to cut, opening lines, captions, titles, and a 7-day posting calendar.",
+  "author": {
+    "name": "Jahirul",
+    "url": "https://cloudskillhub.com"
+  },
+  "homepage": "https://cloudskillhub.com",
+  "repository": "https://github.com/jahirulofficial0/shorts-repurpose-factory",
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "youtube-shorts",
+    "content-repurposing",
+    "video-marketing",
+    "creator-tools",
+    "social-media",
+    "chatgpt-gpt",
+    "gemini-gem"
+  ]
+}
